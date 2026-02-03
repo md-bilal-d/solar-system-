@@ -86,3 +86,6 @@ You can customize various aspects of the simulation:
 ## License
 
 This project is open source and available under the MIT License.
+
+## Author 
+mohammed.bilal.d
