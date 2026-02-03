@@ -79,6 +79,7 @@ You can customize various aspects of the simulation:
 
 - Adjust planetary sizes, distances, and speeds in the `planetData` array
 - Modify visual effects by changing material properties
+- Author-mohammed.bilal.d
 - Add new planets or celestial bodies by extending the existing code
 - Customize the UI by modifying the HTML and CSS
 
